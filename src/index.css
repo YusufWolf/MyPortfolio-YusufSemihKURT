@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  :root {
+    --color-brand: #c026d3; /* fuchsia-600 */
+  }
+}
+
+@layer utilities {
+  .brand-gradient {
+    background: linear-gradient(90deg, #7928ca, #ff0080);
+  }
+}
+
+
