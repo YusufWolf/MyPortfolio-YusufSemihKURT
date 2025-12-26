@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "Hakkımda",
+    "skills": "Yetenekler",
+    "projects": "Projeler",
+    "experience": "Deneyim",
+    "contact": "İletişim"
+  },
+  "hero": {
+    "greeting": "Merhaba, Ben",
+    "name": "Yusuf Semih Kurt",
+    "roles": ["Backend Geliştirici", "Full‑stack Geliştirici", "UI/UX Meraklısı"],
+    "seeProjects": "Projeleri Gör",
+    "downloadCV": "CV İndir"
+  },
+  "about": {
+    "title": "Hakkımda",
+    "paragraph1": "Merhaba, ben Yusuf, FSMVÜ'den mezun 24 yaşında bir Bilgisayar Mühendisiyim. Java, C#, Python, JavaScript ve React konularında deneyime sahibim. Ana odak noktam, birden fazla projede Java Spring Framework ile kapsamlı bir şekilde çalıştığım backend yazılım geliştirme olmuştur. Ayrıca Spring kullanılarak geliştirilmiş şirket düzeyinde bir projeye katkıda bulundum ve gerçek dünya yazılım geliştirme süreçlerinde pratik deneyim kazandım. Aynı şirkette projelerin React tarafında da çalıştım.",
+    "paragraph2": "Yüksek düzeyde uyum sağlayabilir ve yeni teknolojileri ve araçları hızlı bir şekilde öğrenebilirim. Yeni zorluklar üstlenme ve dinamik ortamlarda sürekli kendimi geliştirme yeteneğime güveniyorum.",
+    "paragraph3": "İleri düzey İngilizce yeterliliğimle, küresel kaynakları verimli bir şekilde kullanabilir ve uluslararası projelere aktif olarak katkıda bulunabilirim. Hedefim, problem çözme becerilerimi, yaratıcı düşüncemi ve sürekli öğrenme zihniyetimi yüksek değerli yazılım çözümleri geliştirmek için uygulayabileceğim yenilikçi ve önde gelen yazılım şirketlerinin bir parçası olmaktır."
+  },
+  "skills": {
+    "title": "Yetenekler"
+  },
+  "projects": {
+    "title": "Projeler",
+    "loading": "Projeler yükleniyor...",
+    "noProjects": "Proje bulunamadı."
+  },
+  "experience": {
+    "title": "Deneyim",
+    "job1": {
+      "title": "Backend Geliştirici • KION BILGISAYAR BILISIM YAZILIM SAN. VE  TIC. LTD. STI.",
+      "period": "2022 Yaz Stajı",
+      "description": ".net ve java projelerinde backend geliştirme ve bakım; obs sistemi geliştirmesine katkı; gerektiğinde React tarafında destek."
+    },
+    "job2": {
+      "title": "Backend Geliştirici • ZIRAAT TEKNOLOJI",
+      "period": "2023 Yaz Stajı ",
+      "description": "Mali Analiz ve Tahsisat Dairesi'nde backend geliştirme, c# ve java projelerinde test; Hata ayıklama ve test sistemi geliştirme;"
+    },
+    "job3": {
+      "title": "Full Stack Geliştirici • SELENITY TECHNOLOGY",
+      "period": "2025 04/2025 - 08/2025 ",
+      "description": "Backend için Java Spring, frontend için React ve veritabanı için PostgreSQL kullanarak SmartestQA adlı Test Otomasyon projesi üzerinde çalıştım."
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "description": "Harika bir şeyler birlikte inşa edelim. Bana ulaşmaktan çekinmeyin! Her zaman yeni fırsatlar ve işbirlikleri arıyorum.",
+    "emailMe": "E-posta Gönder"
+  },
+  "footer": {
+    "copyright": "Yusuf Semih Kurt tarafından geliştirildi"
+  },
+  "chat": {
+    "title": "Benimle sohbet et",
+    "noMessages": "Henüz mesaj yok. İlk mesajı sen gönder!",
+    "namePlaceholder": "Adınız",
+    "emailPlaceholder": "E-posta adresiniz (isteğe bağlı)",
+    "messagePlaceholder": "Mesajınızı yazın...",
+    "disclaimer": "Mesaj gönderdiğinizde bildirim alacağım!"
+  }
+}
+

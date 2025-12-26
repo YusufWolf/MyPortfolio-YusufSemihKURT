@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "experience": "Experience",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Yusuf Semih Kurt",
+    "roles": ["Backend Developer", "Full‑stack Developer", "UI/UX Enthusiast"],
+    "seeProjects": "See Projects",
+    "downloadCV": "Download CV"
+  },
+  "about": {
+    "title": "About Me",
+    "paragraph1": "Hi, I'm Yusuf, a 24-year-old Computer Engineering graduate from FSMVÜ. I have experience with Java, C#, Python, JavaScript, and React. My primary focus has been on backend software development, where I have worked extensively with the Java Spring Framework across multiple projects. I have also contributed to a company-level project developed using Spring, gaining hands-on experience in real-world software development processes. I worked on react side of projects as well at the same company.",
+    "paragraph2": "I am highly adaptable and capable of learning new technologies and tools quickly. I trust my ability to take on new challenges and continuously improve myself in dynamic environments.",
+    "paragraph3": "With advanced English proficiency, I can efficiently utilize global resources and actively contribute to international projects. My goal is to be part of innovative and leading software companies, where I can apply my problem-solving skills, creative thinking, and continuous learning mindset to develop high-value software solutions."
+  },
+  "skills": {
+    "title": "Skills"
+  },
+  "projects": {
+    "title": "Projects",
+    "loading": "Loading projects...",
+    "noProjects": "No projects found."
+  },
+  "experience": {
+    "title": "Experience",
+    "job1": {
+      "title": "Backend Developer • KION BILGISAYAR BILISIM YAZILIM SAN. VE  TIC. LTD. STI.",
+      "period": "2022 Summer Internship",
+      "description": "Backend development and maintenance in .net and java projects; contribution to obs system development; React support when needed."
+    },
+    "job2": {
+      "title": "Backend Developer • ZIRAAT TEKNOLOJI",
+      "period": "2023 Summer Internship ",
+      "description": "Backend development at Department of Financial Analysis and Allocation, testing in c# and java projects; Debugging and testing system development;"
+    },
+    "job3": {   
+      "title": "Full Stack Developer • SELENITY TECHNOLOGY",
+      "period": "2025 04/2025 - 08/2025 ",
+      "description": " I worked on the Test Automation project called SmartestQA using Java Spring for the backend, React for the frontend, and PostgreSQL for the database"
+      }
+  },
+  "contact": {
+    "title": "Contact",
+    "description": "Let's build something great together. Feel free to contact me! I'm always looking for new opportunities and collaborations.",
+    "emailMe": "Email me"
+  },
+  "footer": {
+    "copyright": "Developed by Yusuf Semih Kurt"
+  },
+  "chat": {
+    "title": "Chat with me",
+    "noMessages": "No messages yet. Be the first to say hello!",
+    "namePlaceholder": "Your name",
+    "emailPlaceholder": "Your email (optional)",
+    "messagePlaceholder": "Type your message...",
+    "disclaimer": "I'll get notified when you send a message!"
+  }
+}
+

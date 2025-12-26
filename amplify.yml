@@ -1,0 +1,26 @@
+version: 1
+frontend:
+  phases:
+    preBuild:
+      commands:
+        # Node.js versiyonunu belirtiyoruz (AWS Amplify varsayılan olarak Node 18 kullanır)
+        - echo "Node version:"
+        - node --version
+        # Bağımlılıkları yüklüyoruz
+        - npm ci
+    build:
+      commands:
+        # Production build oluşturuyoruz
+        - npm run build
+  artifacts:
+    # Build çıktısının nerede olduğunu belirtiyoruz (Vite dist klasörüne build eder)
+    baseDirectory: dist
+    files:
+      - '**/*'
+  cache:
+    # npm cache'i hızlandırmak için
+    paths:
+      - node_modules/**/*
+
+
+
